@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-zjh_xsj_01/Pods-zjh_xsj_01-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/XSJZjhTestLogin/XSJZjhTestLogin.framework
+${BUILT_PRODUCTS_DIR}/XSJZjhTestNetworking/XSJZjhTestNetworking.framework

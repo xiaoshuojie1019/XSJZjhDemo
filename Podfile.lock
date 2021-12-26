@@ -1,0 +1,49 @@
+PODS:
+  - AFNetworking (2.7.0):
+    - AFNetworking/NSURLConnection (= 2.7.0)
+    - AFNetworking/NSURLSession (= 2.7.0)
+    - AFNetworking/Reachability (= 2.7.0)
+    - AFNetworking/Security (= 2.7.0)
+    - AFNetworking/Serialization (= 2.7.0)
+    - AFNetworking/UIKit (= 2.7.0)
+  - AFNetworking/NSURLConnection (2.7.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.7.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.7.0)
+  - AFNetworking/Security (2.7.0)
+  - AFNetworking/Serialization (2.7.0)
+  - AFNetworking/UIKit (2.7.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - XSJZjhTestLogin (0.1.0):
+    - AFNetworking (~> 2.3)
+    - XSJZjhTestNetworking
+  - XSJZjhTestNetworking (0.1.0)
+
+DEPENDENCIES:
+  - XSJZjhTestLogin (from `Lib/XSJZjhTestLogin`)
+  - XSJZjhTestNetworking (from `Lib/XSJZjhTestNetworking`)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+
+EXTERNAL SOURCES:
+  XSJZjhTestLogin:
+    :path: Lib/XSJZjhTestLogin
+  XSJZjhTestNetworking:
+    :path: Lib/XSJZjhTestNetworking
+
+SPEC CHECKSUMS:
+  AFNetworking: 8dd5f9b9691e09186393069a12cc3b5ed7c8b511
+  XSJZjhTestLogin: 42ef3d7f485e2bd09e939a7a674cb56159b77ccf
+  XSJZjhTestNetworking: 392bf08b270bbd2aab55ac37e63de56484d01f0e
+
+PODFILE CHECKSUM: 5ba5a51cb32f733c9cab85e40bf518401a4feb34
+
+COCOAPODS: 1.11.2
